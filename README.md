@@ -1,4 +1,5 @@
 # extracting_geocodes_from_location_using_geopy
+Here, we will use a .csv file containing a list of locations and we will get their geocodes(latitudes, longitudes) to create a heatmap later using mapbox.
 
 First, let's import all the required libraries and modules and install geopy to use it. We will geocode our locations using geopy.
 Mounting the .csv file with locations from my google drive.
