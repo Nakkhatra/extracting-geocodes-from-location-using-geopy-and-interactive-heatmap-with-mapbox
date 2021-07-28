@@ -10,3 +10,5 @@ As we have three columns separated, if we do not get any result using all three,
 Dropping the rows for which we did not receive any geocode.
 Exporting the .csv file to local machine.
 Now I will use these geocodes to make a heatmap using mapbox since mapbox doesn't require any kind of API keys.
+
+Finally I have made an interactive heatmap of the locations on Bangladesh map using mapbox and I have uploaded the html file Heatmap.html where it can be viewed interactively using iframe.
